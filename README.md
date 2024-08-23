@@ -1,7 +1,7 @@
 # Python News
 
 #### 介绍
-ECUST python公选课大作业（注：部分爬虫可能已经失效）
+ECUST python公选课大作业（注：爬虫可能基本已经失效）
 #### 软件架构
 软件架构说明
 Vue2.x+Django
